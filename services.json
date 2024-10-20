@@ -1,0 +1,115 @@
+{
+    "services": [
+      {
+        "id": "banquet",
+        "name": "Banquet Hall",
+        "description": "Elegant and spacious halls for grand occasions.",
+        "headerImage": "img/stages.jpg",
+        "specifications": {
+          "Capacity": "Up to 2000 guests",
+          "Area": "12,775 sq. ft.",
+          "Lighting": "Adjustable LED lighting",
+          "Sound System": "High-quality audio setup",
+          "Seating Arrangement": "Customizable layouts",
+          "Parking": "Ample parking space available"
+        },
+        "features": [
+          {
+            "title": "Spacious Stage",
+            "image": "img/stages.jpg",
+            "description": "Perfect for performances, speeches, and entertainment."
+          },
+          {
+            "title": "Grand Entrance",
+            "image": "img/Grand entrance.jpg",
+            "description": "Elegant gates that make a lasting first impression."
+          },
+          {
+            "title": "Prestigeous Dinning Hall",
+            "image": "img/dinning.jpg",
+            "description": "Large no fo people can enjoy wedding feast, or Sadya."
+          }
+        ],
+        "gallery": [
+          "img/banquet.jpg",
+          "img/stage.jpg",
+          "img/stage2.jpg",
+          "img/entrance.jpg",
+          "img/dinning.jpg"
+        ]
+      },
+      {
+        "id": "lawn",
+        "name": "Lawn",
+        "description": "Beautifully landscaped lawns for outdoor events.",
+        "headerImage": "img/garden1.jpg",
+        "specifications": {
+          "Capacity": "Up to 2500 guests",
+          "Area": "20,000 sq. ft.",
+          "Lighting": "String and ambient lighting",
+          "Sound System": "Outdoor-friendly audio setup",
+          "Seating Arrangement": "Flexible outdoor seating",
+          "Parking": "Reserved parking areas"
+        },
+        "features": [
+          {
+            "title": "Open Sky Tent",
+            "image": "img/haldi.jpg",
+            "description": "Spacious tents to protect against weather while enjoying the open sky."
+          },
+          {
+            "title": "Garden Decor",
+            "image": "img/lawn.jpg",
+            "description": "Lush gardens and floral arrangements to enhance the ambiance."
+          },
+          {
+            "title": "Lighting Setup",
+            "image": "img/lighting1.jpg",
+            "description": "Beautiful lighting to create a magical evening atmosphere."
+          }
+        ],
+        "gallery": [
+          "img/lawn.jpg",
+          "img/lawn3.jpg",
+          "img/lawn2.jpg"
+        ]
+      },
+      {
+        "id": "lodge",
+        "name": "Lodge",
+        "description": "Comfortable accommodation for your guests.",
+        "headerImage": "img/lodge.jpg",
+        "specifications": {
+          "Capacity": "50 rooms",
+          "Amenities": "Free Wi-Fi, Breakfast included",
+          "Room Types": "Single, Double, Suite",
+          "Parking": "Secure parking facilities",
+          "Accessibility": "Wheelchair accessible"
+        },
+        "features": [
+          {
+            "title": "Comfortable Rooms",
+            "image": "img/lodge-rooms.jpg",
+            "description": "Spacious and well-furnished rooms for a comfortable stay."
+          },
+          {
+            "title": "Dining Area",
+            "image": "img/lodge-dining.jpg",
+            "description": "Elegant dining spaces offering a variety of cuisines."
+          },
+          {
+            "title": "Recreational Facilities",
+            "image": "img/lodge-recreation.jpg",
+            "description": "Facilities like a swimming pool, gym, and lounge areas."
+          }
+        ],
+        "gallery": [
+          "img/room1.jpeg",
+          "img/room2.jpeg",
+          "img/room3.jpg",
+          "img/room4.jpg"
+        ]
+      }
+    ]
+  }
+  

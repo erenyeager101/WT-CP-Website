@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "test1",
+            "database": "hallsweb",
+            "username": "root",
+            "password": "ruturaj",
+            "connectionTimeout": 40
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "test2",
+            "database": "shantai",
+            "username": "root",
+            "password": "ruturaj",
+            "connectionTimeout": 50
+        }
+    ]
+}

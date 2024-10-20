@@ -1,0 +1,49 @@
+Navigation Bar
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar .navbar-brand img {
+  margin-right: 10px;
+}
+
+.nav-link {
+  position: relative;
+  padding: 10px 15px;
+  transition: color 0.3s ease;
+}
+
+.nav-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #fff;
+  transition: width 0.3s;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+.nav-link:hover {
+  color: #00aced; /* Change to your desired hover color */
+}
+
+.dropdown-menu {
+  background-color: #343a40;
+}
+
+.dropdown-item {
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-item:hover {
+  background-color: #495057;
+  color: #fff;
+}
